@@ -6,7 +6,11 @@ This is my project for age synthesis. The purpose of the research is trying to d
 
 The advantage of the study is that we can generate the data by ourself in oder for GAN training since the state of art datasets such as CACD are susally imbalance.
 
-##flowchart 
+## flowchart 
+We have three steps for the experiments
+- Train gender and age dataset.
+- Using pretrained classifier to generate pair dataset.
+- Train GAN model by pair dataset.
 
 ## Installation
 
