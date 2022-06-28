@@ -35,7 +35,7 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-## Contributing
+## Contribution
 continuing
 
 ## Reference 
