@@ -39,4 +39,4 @@ foobar.singularize('phenomena')
 continuing
 
 ## Reference 
-[github](https://github.com/EvgenyKashin/stylegan2-distillation)
+[stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation)
